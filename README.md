@@ -1,4 +1,6 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mulzahrian)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mulzahrian)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+ ![Mulzahrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulzahrian&show_icons=true&theme=radical)
 
 ### Hi there 👋
 - 🔭 I’m currently working as Backend Enginner 
