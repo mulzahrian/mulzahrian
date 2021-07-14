@@ -7,7 +7,7 @@
 
 
 ### Hi there 👋
-- 🔭 I’m currently working as Backend Enginner 
+- 🔭 I’m currently working as Backend Engineer 
 
 ## 📫 call me on : mulzahrianone@gmail.com
 
