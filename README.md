@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working as Backend Engineer 
-- - ⚡ Fun fact: I'm in my way to learn FrontEnd 
+- ⚡ Fun fact: I'm in my way to learn FrontEnd 
 
 ## 📫 call me on : mulzahrianone@gmail.com
 
