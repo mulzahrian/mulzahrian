@@ -6,7 +6,7 @@
 
 <hr>
 
-<div>
+<div align="center">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=mulzahrian&show_icons=true&theme=radical"
         alt="mulzahrian" height="250px" width="47%" />
