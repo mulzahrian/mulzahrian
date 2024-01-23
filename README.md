@@ -5,7 +5,12 @@
 <h1 align="center"> Hello there 👋, I'm Mulzahrian</h1>
 
 <hr>
- ![Mulzahrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=mulzahrian&show_icons=true&theme=radical)
+
+<div>
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=mulzahrian&show_icons=true&theme=radical"
+        alt="mulzahrian" height="250px" width="47%" />
+</div>
  
 <!--  ### What Language I Use
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulzahrian&langs_count=8)](https://github.com/mulzahrian/github-readme-stats) -->
