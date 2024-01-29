@@ -3,7 +3,9 @@
 <hr>
 
 <h1 align="center"> Hello there 👋, I'm Mulzahrian</h1>
+<h3 align="center">✨Binus University 🔹 Fullstack Developer 🔹 Artificial Intelligence Enthusiast✨</h3>
 
+[![](https://visitcount.itsvg.in/api?id=mulzahrian&icon=0&color=0)](https://visitcount.itsvg.in)
 <hr>
 
 <div align="center">
