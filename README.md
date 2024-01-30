@@ -1,13 +1,10 @@
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mulzahrian)](https://github.com/anuraghazra/github-readme-stats)
  -->
 <hr>
-
 <h1 align="center"> Hello there 👋, I'm Mulzahrian</h1>
 <h3 align="center">✨Binus University 🔹 Fullstack Developer 🔹 Artificial Intelligence Enthusiast✨</h3>
-
-[![](https://visitcount.itsvg.in/api?id=mulzahrian&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=mulzahrian&icon=0&color=0)](https://visitcount.itsvg.in)-->
 <hr>
-
 <div align="center">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=mulzahrian&show_icons=true&theme=radical"
@@ -22,7 +19,7 @@
 - 🔭 I’m currently working as Backend Engineer 
 - ⚡ Fun fact: I'm in my way to learn FrontEnd 
 
-# 📫 call me on : mulzahrianone@gmail.com
+### 📫 call me on : mulzahrianone@gmail.com
 
 <!--
 **mulzahrian/mulzahrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
