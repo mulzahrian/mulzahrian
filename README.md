@@ -34,10 +34,9 @@ Experienced more than 3 years in the IT industry, especially in software develop
 
 
 ### 👋
-- 🔭 I’m currently working as Backend Engineer 
-- ⚡ Fun fact: I'm in my way to learn FrontEnd 
-
-### 📫 call me on : mulzahrianone@gmail.com
+- 🔭 I’m currently working as Fullstack Developer 
+- ⚡ Fun fact: I'm in my way to learn about AI
+-  📫 How to reach me : mulzahrianone@gmail.com
 
 <!--
 **mulzahrian/mulzahrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
