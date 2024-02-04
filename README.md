@@ -29,7 +29,7 @@ Experienced more than 3 years in the IT industry, especially in software develop
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/dotnet-%23563D7C.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Codeigniter](https://img.shields.io/badge/codeigniter-%EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=%EF4223)
+![Codeigniter](https://img.shields.io/badge/codeigniter-%23323330.svg?style=for-the-badge&logo=codeigniter&logoColor=%23323330)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
