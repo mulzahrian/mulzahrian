@@ -5,7 +5,7 @@
 <h3 align="center">✨Binus University 🔹 Fullstack Developer 🔹 Artificial Intelligence Enthusiast✨</h3>
 
 ### About
-Experienced more than 3 years in the IT industry, especially in software development and data management, As someone engaged in the IT industry, I am a person who likes to increase the capacity of my skills, Can work individually or in a team environment, works very well under pressure and strict deadlines.
+Experienced more than 4 years in the IT industry, especially in software development and data management, As someone engaged in the IT industry, I am a person who likes to increase the capacity of my skills, Can work individually or in a team environment, works very well under pressure and strict deadlines.
 - 🔭 I’m currently working as Fullstack Developer 
 - ⚡ Fun fact: I'm in my way to learn about AI
 -  📫 How to reach me : mulzahrianone@gmail.com
