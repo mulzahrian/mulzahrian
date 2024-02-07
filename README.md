@@ -36,10 +36,10 @@ Experienced more than 4 years in the IT industry, especially in software develop
 # 📊 GitHub Stats:
 <div>
     <img align="left"
-        src="https://github-readme-streak-stats.herokuapp.com?user=mulzahrian&theme=dark&border_radius=10"
+        src="https://github-readme-streak-stats.herokuapp.com?user=mulzahrian&theme=radical&border_radius=10"
         alt="dhrubasaha08" height="250px" width="47%" />
  <img align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulzahrian&layout=compact&theme=dark&border_radius=10"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulzahrian&layout=compact&theme=radical&border_radius=10"
         height="255px" width="47%" />
 </div>
 
