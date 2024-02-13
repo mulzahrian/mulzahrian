@@ -30,7 +30,7 @@ Experienced more than 4 years in the IT industry, especially in software develop
         alt="dhrubasaha08" height="250px" width="47%" />
  <img align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulzahrian&layout=compact&theme=radical"
-        height="255px" width="39%" />
+        height="255px" width="47%" />
 </div>
 
 
