@@ -4,7 +4,7 @@
 <h1 align="center"> Hello there 👋, I'm Mulzahrian</h1>
 <h3 align="center">✨Binus University 🔹 Fullstack Developer 🔹 Artificial Intelligence Enthusiast✨</h3>
 
-### About
+## About
 Experienced more than 4 years in the IT industry, especially in software development and data management, As someone engaged in the IT industry, I am a person who likes to increase the capacity of my skills, Can work individually or in a team environment, works very well under pressure and strict deadlines.
 - 🔭 I’m currently working as Fullstack Developer 
 - ⚡ Fun fact: I'm in my way to learn about AI
@@ -23,7 +23,7 @@ Experienced more than 4 years in the IT industry, especially in software develop
         alt="mulzahrian" height="250px" width="47%" />
 </div>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Springboot](https://img.shields.io/badge/spring-%6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -33,7 +33,7 @@ Experienced more than 4 years in the IT industry, especially in software develop
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div>
     <img align="left"
         src="https://github-readme-streak-stats.herokuapp.com?user=mulzahrian&theme=radical&border_radius=10"
