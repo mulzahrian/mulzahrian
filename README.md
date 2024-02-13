@@ -17,12 +17,21 @@ Experienced more than 4 years in the IT industry, especially in software develop
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mulzahrian21/)
 <hr>
 
+## 📊 GitHub Stats:
+
 <div align="center">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=mulzahrian&show_icons=true&theme=radical"
         alt="mulzahrian" height="250px" width="47%" />
 </div>
-
+<div>
+    <img align="left"
+        src="https://github-readme-streak-stats.herokuapp.com?user=mulzahrian&theme=radical&border_radius=10"
+        alt="dhrubasaha08" height="250px" width="47%" />
+ <img align="right"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulzahrian&layout=compact&theme=radical"
+        height="255px" width="30%" />
+</div>
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Springboot](https://img.shields.io/badge/spring-%6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -32,16 +41,6 @@ Experienced more than 4 years in the IT industry, especially in software develop
 ![Codeigniter](https://img.shields.io/badge/codeigniter-%23323330.svg?style=for-the-badge&logo=codeigniter&logoColor=%EF4223)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## 📊 GitHub Stats:
-<div>
-    <img align="left"
-        src="https://github-readme-streak-stats.herokuapp.com?user=mulzahrian&theme=radical&border_radius=10"
-        alt="dhrubasaha08" height="250px" width="47%" />
- <img align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulzahrian&layout=compact&theme=radical"
-        height="255px" width="47%" />
-</div>
 
  <!--### What Language I Use
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulzahrian&langs_count=8)](https://github.com/mulzahrian/github-readme-stats)-->
